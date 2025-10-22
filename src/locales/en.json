@@ -1,0 +1,15 @@
+{
+  "landing":{
+    "description":"Arc is a blazingly fast emulator for the Nintendo Switch."
+  },
+  "source":{
+    "open_source":"Open Source",
+    "contribute_to_arcnx":"Contribute to help make ArcNx better",
+    "contribute":"Contribute",
+    "join_discord":"Join Discord"
+  },
+  "download":{
+    "download_arcnx":"Download ArcNX",
+    "download":"Download"
+  }
+}

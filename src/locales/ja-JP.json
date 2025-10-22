@@ -1,0 +1,16 @@
+{
+  "landing":{
+    "description":"ArcはNintendo Switchの超高速エミュレーターです。"
+  },
+   "source":{
+    "open_source":"オープンソース",
+    "contribute_to_arcnx":"ArcNXの改善に貢献する",
+    "contribute":"貢献",
+    "join_discord":"Discordコミュニティに参加」"
+
+  },
+   "download":{
+    "download_arcnx":"ArcNXのダウンロード",
+    "download":"ダウンロード"
+  }
+}
